@@ -4,7 +4,7 @@
   - 🎓 **EDUCATION**: B.Sc Cyber Forensic graduate; Graduated from MG University
 ### 💻 My Tryhackme Profile 
 
-[<img src="https://tryhackme-badges.s3.amazonaws.com/VaishnavS.png" alt="TryHackMe Badge" />]
+<img src="https://tryhackme-badges.s3.amazonaws.com/VaishnavS.png" alt="Your Image Badge" />
 
 I'm actively learning through platforms like TryHackMe. Click the badge to view my profile and progress!
 
