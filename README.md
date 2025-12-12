@@ -1,4 +1,4 @@
-<h1 align="center">Hi, My name is Vaishnav S Kumar AKA rogue_byte</h1>
+# align="center">Hi, My name is Vaishnav S Kumar AKA rogue_byte
 
 ### 👤 About Me
   - 🎓 **EDUCATION**: B.Sc Cyber Forensic graduate; Graduated from MG University
