@@ -2,6 +2,7 @@
 
 ### 👤 About Me
   - 🎓 **EDUCATION**: B.Sc Cyber Forensic graduate; Graduated from MG University
+  - 💼 **Occupation**: Cyber Security Analyst, Cyber Arcadia, Nagercoil
 ### 💻 My Tryhackme Profile 
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/VaishnavS.png" alt="Your Image Badge" />
