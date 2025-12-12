@@ -4,7 +4,7 @@
   - 🎓 **EDUCATION**: B.Sc Cyber Forensic graduate; Graduated from MG University
 ### 💻 My Tryhackme Profile 
 
-[![](https://tryhackme-badges.s3.amazonaws.com/ROGUEBYTE.png)](https://tryhackme.com/p/ROGUEBYTE)
+[![](<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4790596" style='border:none;'></iframe>
 
 I'm actively learning through platforms like TryHackMe. Click the badge to view my profile and progress!
 
