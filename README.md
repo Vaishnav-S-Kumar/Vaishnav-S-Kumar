@@ -5,7 +5,7 @@
   - 💼 **Occupation**: Cyber Security Analyst, Cyber Arcadia, Nagercoil
 ### 💻 My Tryhackme Profile 
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4790596" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4790596)](https://tryhackme.com/p/yourusername)
 
 I'm actively learning through platforms like TryHackMe. Click the badge to view my profile and progress!
 
