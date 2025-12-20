@@ -7,7 +7,6 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/VaishnavS.png" alt="Your Image Badge" />
 
-
 I'm actively learning through platforms like TryHackMe. Click the badge to view my profile and progress!
 
 ### 🌐 These are my socials
