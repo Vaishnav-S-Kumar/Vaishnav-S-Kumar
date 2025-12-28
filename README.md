@@ -1,4 +1,5 @@
-# Hi, My name is Vaishnav S Kumar 
+# 💫 About Me:
+Hi, my name is vaishnav s kumar,
 
 ### 👤 About Me
   - 🎓 **EDUCATION**: B.Sc Cyber Forensic graduate; Graduated from MG University
@@ -10,6 +11,10 @@ I'm actively learning through platforms like TryHackMe. Click the badge to view 
 <a href="https://tryhackme.com/p/VaishnavS">
   <img src="https://tryhackme-badges.s3.amazonaws.com/VaishnavS.png" alt="TryHackMe Badge" />
 </a>
+
+# 💻 Tech Stack:
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
 
 ### 🌐 These are my socials
 🤝 Let's Connect
