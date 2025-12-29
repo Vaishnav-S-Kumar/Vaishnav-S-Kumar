@@ -14,7 +14,6 @@ I'm actively learning through platforms like TryHackMe. Click the badge to view 
 
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
 
 ### 🌐 These are my socials
 🤝 Let's Connect
