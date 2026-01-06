@@ -9,7 +9,7 @@ Hi, my name is vaishnav s kumar,
 I'm actively learning through platforms like TryHackMe. Click the badge to view my profile and progress!
 
 <a href="https://tryhackme.com/p/VaishnavS">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/VaishnavS.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/VaishnavS.png" alt="Your Image Badge" />
 </a>
 
 # 💻 Tech Stack:
