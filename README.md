@@ -2,8 +2,8 @@
 Hi, my name is vaishnav s kumar,
 
 ### 👤 About Me
-  - 🎓 **EDUCATION**: B.Sc Cyber Forensic graduate; Graduated from MG University
-  - 💼 **Occupation**: Cyber Security Analyst
+  - 🎓 **EDUCATION**: B.Sc Cyber Forensic graduate
+  - 💼 **OCCPUATION**: Cyber Security Analyst
 ### 💻 My Tryhackme Profile 
 
 I'm actively learning through platforms like TryHackMe. Click the badge to view my profile and progress!
