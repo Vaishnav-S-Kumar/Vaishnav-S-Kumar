@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c45b9c3-640b-4842-be15-65af1e09c3b9"/>
+</p>
+
 # About Me:
 Hi, my name is vaishnav s kumar,
 
